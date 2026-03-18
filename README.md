@@ -28,6 +28,7 @@ The project uses this public test API:
 
 ## Project Structure
 
+```bach
 
 api_project/
 ├── main.py
@@ -35,7 +36,7 @@ api_project/
 ├── README.md
 ├── .gitignore
 └── venv/
-
+```
 
 ## How to Run
 
